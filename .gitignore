@@ -5,6 +5,7 @@
 /dist-server
 /tmp
 /out-tsc
+/an-electron-win32-x64
 
 # dependencies
 /node_modules
